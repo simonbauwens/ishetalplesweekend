@@ -21,7 +21,7 @@
   
           //do something later when end date is reached
           if (distance_end < 0) {
-            document.getElementById("headline").innerText = "Plesweekend zit er weer op, tot volgend jaar!";
+            document.getElementById("headline").innerText = "Plesweekend zit er weer op, tot volgend jaar! Komaan Tony en Kloazie!";
             document.getElementById("countdown").style.display = "none";
             clearInterval(x);
           }
