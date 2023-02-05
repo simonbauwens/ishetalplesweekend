@@ -4,8 +4,8 @@
           hour = minute * 60,
           day = hour * 24;
   
-    plesweekend = "06/10/2023"
-    plesweekend_end = "08/10/2023"
+    plesweekend = "10/06/2023"
+    plesweekend_end = "10/08/2023"
     
     const countDown = new Date(plesweekend).getTime(),
         x = setInterval(function() {
